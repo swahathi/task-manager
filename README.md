@@ -1,3 +1,6 @@
+<img width="852" height="676" alt="Screenshot 2026-06-24 230633" src="https://github.com/user-attachments/assets/796c8d82-b846-4b2a-b25f-87f757c826e8" />
+<img width="1007" height="717" alt="Screenshot 2026-06-24 230618" src="https://github.com/user-attachments/assets/07ca11af-4b2a-4565-94b4-34ad0a156cfd" />
+<img width="1247" height="827" alt="Screenshot 2026-06-24 230229" src="https://github.com/user-attachments/assets/e7af3020-19a4-4ca2-a48c-fca318583a32" />
 # Simple Task Manager
 
 ## Description
